@@ -1,0 +1,9 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" rx="32" fill="#EEF2FF"/>
+  <circle cx="200" cy="140" r="70" fill="#C7D2FE"/>
+  <path d="M105 320C118 255 151 220 200 220C249 220 282 255 295 320" fill="#A5B4FC"/>
+  <circle cx="175" cy="130" r="8" fill="#3730A3"/>
+  <circle cx="225" cy="130" r="8" fill="#3730A3"/>
+  <path d="M175 170C183 180 193 185 200 185C207 185 217 180 225 170" stroke="#3730A3" stroke-width="8" stroke-linecap="round"/>
+  <text x="200" y="360" text-anchor="middle" font-size="22" font-family="Poppins, Arial, sans-serif" fill="#3730A3">Profile Image</text>
+</svg>
